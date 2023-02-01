@@ -9,8 +9,6 @@ Once imgcreator comes out, it will be compiled for the following systems:
 - NixOS (x86_64) (glibc) (coming version 3.0)
 - Windows (x86_64)
 
-If the regular Linux binary doesn't work, try the musl version
-
 # Compiling from source
 Imgcreator will work on any operative system and architecture that supports Rust's compiler
 
